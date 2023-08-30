@@ -19,8 +19,8 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-GlHr4Z69kD
+- Live Site URL: https://candicoded.github.io/product-preview-card-component-main/
 
 ## My process
 ### Built with
